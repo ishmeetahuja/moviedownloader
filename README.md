@@ -38,7 +38,7 @@ IPT_USER=
 IPT_PASS=
 IPT_BASE_URL=https://iptorrents.com
 
-PORT=3000
+PORT=3010
 ```
 
 ### 4. Start Dina
@@ -47,7 +47,7 @@ PORT=3000
 npm start
 ```
 
-Then open **http://<IP>:3000** in your browser.
+Then open **http://<IP>:3010** in your browser.
 
 ---
 
