@@ -30,12 +30,12 @@ npm install
 ```env
 TRANSMISSION_HOST=192.168.1.191
 TRANSMISSION_PORT=9091
-TRANSMISSION_USER=Ramraj
-TRANSMISSION_PASS=apexpress
-TRANSMISSION_DOWNLOAD_DIR=/mnt/media/tdownloads
+TRANSMISSION_USER=
+TRANSMISSION_PASS=
+TRANSMISSION_DOWNLOAD_DIR=
 
-IPT_USER=smithnewessen
-IPT_PASS=apexpress
+IPT_USER=
+IPT_PASS=
 IPT_BASE_URL=https://iptorrents.com
 
 PORT=3000
@@ -47,7 +47,7 @@ PORT=3000
 npm start
 ```
 
-Then open **http://192.168.1.191:3000** in your browser.
+Then open **http://<IP>:3000** in your browser.
 
 ---
 
